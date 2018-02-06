@@ -3,7 +3,7 @@ player = {
 
 Currency: new Decimal(10),
 totalCurrency: new Decimal(0),
-partAmount: [],
+partAmount: [0,0,0,0,0,0,0,0,0,0],
 playtime: 0,
 time: 0,
 notation: 0,
